@@ -1,5 +1,5 @@
 Package.describe({
-  name: "telescope:notificationscustom",
+  name: "entomb:notificationscustom",
   summary: "Telescope notifications package (custom)",
   version: "0.25.5",
   git: "https://github.com/entomb/telescope-notifications-custom.git"
